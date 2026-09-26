@@ -10,7 +10,7 @@ UAS (Unmanned Aircraft System): The entire ecosystem, including the UAV, ground 
 
 Drone: A general, everyday word used for any unmanned vehicle or flying craft.
 
-Useful Links to learn domain
+Useful Links to learn domain/GCS(Ground Control Station)
 
 [Beginner's Tutorial - Simulation using Mission Planner](https://youtu.be/GFxwRgntGlQ?si=3-h4hy8HOJxMzw_J)
 
