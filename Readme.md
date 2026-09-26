@@ -13,3 +13,5 @@ Drone: A general, everyday word used for any unmanned vehicle or flying craft.
 Useful Links to learn domain
 
 [Beginner's Tutorial - Simulation using Mission Planner](https://youtu.be/GFxwRgntGlQ?si=3-h4hy8HOJxMzw_J)
+
+[ArduPilot Guide | Mission Planner](https://youtube.com/playlist?list=PL8VxFJsAW3rDn52KIo9R6F2usIqW8mMIx&si=98iDRPvSlbUhvx0e)
