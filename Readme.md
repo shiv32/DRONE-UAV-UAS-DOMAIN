@@ -1,3 +1,5 @@
+This Repository resources will help to understand the UAV/UAS domain.
+
 An Unmanned Aerial Vehicle (UAV) is the flying aircraft itself, 
 while an Unmanned Aircraft System (UAS) includes the aircraft, ground controls, and software, 
 and "drone" is the casual term for either
