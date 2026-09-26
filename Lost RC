@@ -1,0 +1,46 @@
+Lost RC means Lost Radio Control in UAVs and drones.
+
+It occurs when the autopilot stops receiving valid control signals from the pilot's radio transmitter (RC controller).
+
+### What happens when RC is lost?
+
+For example:
+
+1. You are flying a simulated drone using a radio controller.
+
+2. The connection between the controller and the vehicle is interrupted.
+
+3. The autopilot detects that RC input has been lost.
+
+4. The configured RC failsafe may activate.
+
+
+Lost RC (Radio Control) means the autopilot has lost the control signal from the pilot's radio transmitter.
+
+In your Mission Planner SITL PDF, it appears under Failsafe terminology.
+
+### Example
+
+Normal operation
+
+RC Transmitter → Receiver → Autopilot
+
+The pilot can control the vehicle.
+
+Lost RC
+
+The transmitter signal is lost, or the receiver stops providing valid RC input.
+
+RC failsafe
+
+Depending on the configuration, the autopilot may initiate RTL (Return to Launch), LAND, or another configured response.
+
+Important distinction:
+
+* Lost RC: The pilot's radio-control signal is lost.
+
+* Lost GCS connection: Mission Planner or another ground station loses communication with the vehicle.
+
+These are separate types of communication failure.
+
+
