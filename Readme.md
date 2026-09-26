@@ -16,4 +16,6 @@ Useful Links to learn domain/GCS(Ground Control Station)
 
 [Beginner's Tutorial - Simulation using Mission Planner](https://youtu.be/GFxwRgntGlQ?si=3-h4hy8HOJxMzw_J)
 
+[Mission Planner SITL for Dummies](https://youtu.be/gnSbaGDzrHE?si=3ghtxmliMYOQWb68)
+
 [ArduPilot Guide | Mission Planner](https://www.youtube.com/playlist?list=PL8VxFJsAW3rDn52KIo9R6F2usIqW8mMIx)
