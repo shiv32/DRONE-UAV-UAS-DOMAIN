@@ -1,0 +1,59 @@
+
+UAV ALTITUDE REFERENCES: ASL, AMSL, AGL
+======================================
+
+1. ASL (Above Sea Level)
+------------------------
+Meaning:
+Altitude measured relative to sea level.
+
+Example:
+ASL = 300 m means the UAV is 300 meters above sea level.
+
+
+2. AMSL (Above Mean Sea Level)
+------------------------------
+Meaning:
+Altitude measured relative to the average sea level.
+
+Example:
+AMSL = 300 m means the UAV is 300 meters above mean sea level.
+
+Note:
+ASL and AMSL are often used interchangeably in aviation.
+AMSL is the more precise term.
+
+
+3. AGL (Above Ground Level)
+---------------------------
+Meaning:
+Height measured relative to the ground directly below the UAV.
+
+Example:
+AGL = 100 m means the UAV is 100 meters above the ground.
+
+
+4. EXAMPLE: ASL/AMSL vs AGL
+---------------------------
+Ground elevation = 200 m AMSL
+UAV height       = 100 m AGL
+
+Therefore:
+UAV altitude     = 300 m AMSL
+UAV height       = 100 m AGL
+
+
+5. FORMULA
+----------
+UAV altitude AMSL = Ground elevation AMSL + UAV height AGL
+
+
+6. QUICK SUMMARY
+----------------
+ASL  = Above Sea Level
+AMSL = Above Mean Sea Level
+AGL  = Above Ground Level
+
+ASL/AMSL = Altitude relative to sea level.
+AGL      = Height relative to local ground.
+
